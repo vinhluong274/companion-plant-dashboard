@@ -1,0 +1,192 @@
+[
+	{
+		"plant": "basil",
+		"companions": ["tomatoes", "peppers", "lettuce", "asparagus" ],
+		"enemies": ["rue", "sage", "rosemary"]
+	},
+	{
+		"plant": "bush-beans",
+		"companions": ["beets", " cabbage", " carrots", " catnip", " cauliflower", " corn", " cucumbers", " marigolds", " potatoes", " savory", " strawberries"],
+		"enemies": ["fennel", " garlic", " leeks", " onions", " shallots"]
+	},
+	{
+		"plant": "pole beans",
+		"companions": ["corn", " marigolds", " potatoes", " radishes"],
+		"enemies": ["beets", "garlic", "kohlrabi", "leeks", "onions", "shallots"]
+	},
+	{
+		"plant": "beets",
+		"companions": ["broccoli", "brussels sprouts", "bush beans", "cabbage", "cauliflower", "chard", "kohlrabi", "onions" ],
+		"enemies": ["charlock", "mustard", "pole beans"]
+	},
+	{
+		"plant": "borage",
+		"companions": ["squash", "strawberries", "tomatoes","beans", "eggplant", "cucumber", "squash", "cabbage" ],
+		"enemies": []
+	},
+	{
+		"plant": "broccoli",
+		"companions": ["beets", "buckwheat", "calendula", "carrots", "chamomile", "dill", "hyssop", "marigolds", "mints", "nasturtiums", "onions", "rosemary", "sage", "thyme", "wormwood"],
+		"enemies": ["strawberries"]
+	},
+	{
+		"plant": "brussel-sprouts",
+		"companions": ["beets", "buckwheat", "calendula", "carrots", "chamomile", "dill", "hyssop", "marigolds", "mints", "nasturtiums", "onions", "rosemary", "sage", "thyme", "wormwood"],
+		"enemies": ["strawberries"]
+	},
+	{
+		"plant": "cabbage",
+		"companions": ["broccoli", "brussels sprouts", "celery", "chard", "spinach", "tomatoes"],
+		"enemies": ["strawberries"]
+	},
+	{
+		"plant": "cauliflower",
+		"companions": ["broccoli", "brussels sprouts", "celery", "chard", "spinach", "tomatoes"],
+		"enemies": ["strawberries"]
+	},
+	{
+		"plant": "carrots",
+		"companions": ["cabbage", "chives", "leeks", "lettuce", "onions", "peas", "radishes", "rosemary", "sage", "salsify", "wormwood"],
+		"enemies": ["dill"]
+	},
+	{
+		"plant": "chives",
+		"companions": ["apples", "berries", "carrots", "grapes", "peas", "roses", "tomatoes" ],
+		"enemies": []
+	},
+	{
+		"plant": "corn",
+		"companions": ["beans", "cucumbers", "melons", "peas", "pumpkins", "soybeans", "squash"],
+		"enemies": []
+	},
+	{
+		"plant": "cucumbers",
+		"companions": ["beans", "cabbage", "corn", "radishes", "sunflowers"],
+		"enemies": ["potatoes"]
+	},
+	{
+		"plant": "dill",
+		"companions": ["broccoli", "brussels sprouts", "cauliflower", "cucumber", "lettuce", "onions" ],
+		"enemies": ["carrots"]
+	},
+	{
+		"plant": "eggplant",
+		"companions": ["green beans", "peppers", "potatoes", "tomatoes"],
+		"enemies": []
+	},
+	{
+		"plant": "garlic",
+		"companions": ["cabbage", "cane fruits", "fruit trees", "roses", "tomatoes"],
+		"enemies": ["peas", "beans"]
+	},
+	{
+		"plant": "kale",
+		"companions": ["basil", "thyme", "sage", "rosemary", "buckwheat", "cabbage", "marigolds"],
+		"enemies": ["pole beans", "strawberries"]
+	},
+	{
+		"plant": "kohlrabi",
+		"companions": ["broccoli", "brussels sprouts", "celery", "chard", "spinach"],
+		"enemies": ["fennel", "pole beans", "tomatoes"]
+	},
+	{
+		"plant": "lettuce",
+		"companions": ["beets", "carrots", "parsnips", "radishes", "strawberries"],
+		"enemies": ["cabbage"]
+	},
+	{
+		"plant": "onions",
+		"companions": ["beets", "cabbage", "carrots", "chamomile", "lettuce", "parsnips"],
+		"enemies": ["beans", "peas"]
+	},
+	{
+		"plant": "oregano",
+		"companions": ["all"],
+		"enemies": []
+	},
+	{
+		"plant": "parsley",
+		"companions": ["corn", "roses", "tomatoes"],
+		"enemies": []
+	},
+	{
+		"plant": "parsnips",
+		"companions": ["onions", "radishes", "wormwood"],
+		"enemies": []
+	},
+	{
+		"plant": "peas",
+		"companions": ["beans", "carrots", "corn", "cucumbers", "radishes", "turnips"],
+		"enemies": ["garlic", "leeks", "onions", "shallots"]
+	},
+	{
+		"plant": "peppers",
+		"companions": ["basil", "carrots", "eggplant", "onions", "parsley", "tomatoes"],
+		"enemies": ["fennel", "kohlrabi"]
+	},
+	{
+		"plant": "potatoes",
+		"companions": ["basil", "beans", "cabbage", "corn", "eggplant", "flax", "hemp", "marigolds", "peas", "squash"],
+		"enemies": ["apples", "birch", "cherries", "cucumbers", "pumpkins", "raspberries", "sunflowers", "tomatoes", "walnuts"]
+	},
+	{
+		"plant": "radishes",
+		"companions": ["chervil", "cucumbers", "lettuce", "melons", "peas", "nasturtiums", "root crops"],
+		"enemies": ["hyssop"]
+	},
+	{
+		"plant": "rosemary",
+		"companions": ["beans", "cabbage", "carrots"],
+		"enemies": ["basil", "pumpkins", "squash"]
+	},
+	{
+		"plant": "sage",
+		"companions": ["cabbage", "carrots", "tomatoes"],
+		"enemies": ["cucumbers", "basil"]
+	},
+	{
+		"plant": "soybeans",
+		"companions": ["corn", "tomatoes"],
+		"enemies": []
+	},
+	{
+		"plant": "spinach",
+		"companions": ["celery", "cauliflower", "eggplant", "strawberries"],
+		"enemies": []
+	},
+	{
+		"plant": "strawberries",
+		"companions": ["borage", "bush beans", "lettuce", "pyrethrum", "spinach"],
+		"enemies": ["cabbage"]
+	},
+	{
+		"plant": "swiss chard",
+		"companions": ["bush beans", "kohlrabi", "onions"],
+		"enemies": ["pole beans"]
+	},
+	{
+		"plant": "tarragon",
+		"companions": ["all"],
+		"enemies": []
+	},
+	{
+		"plant": "thyme",
+		"companions": ["all"],
+		"enemies": []
+	},
+	{
+		"plant": "tomatoes",
+		"companions": ["asparagus", "basil", "cabbage", "carrots", "gooseberries", "mustard", "parsley", "onions", "rosemary", "sage", "stinging nettles"],
+		"enemies": ["fennel", "kohlrabi", "potatoes", "walnuts"]
+	},
+	{
+		"plant": "turnips",
+		"companions": ["peas"],
+		"enemies": ["knotweed", "mustard"]
+	},
+	{
+		"plant": "rutabagas",
+		"companions": ["peas"],
+		"enemies": ["knotweed", "mustard"]
+	}
+]
